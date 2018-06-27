@@ -4,7 +4,10 @@ about: Template for creating a card on the project board
 
 ---
 
-**Phrase the issue title in terms of usable results, NOT developer activity**
+1.  **Phrase the issue title in terms of usable results, NOT developer activity**.
+1.  **Add the issue to the `Nike SeazMe Deployment` project**.
+1.  **Replace the text below with your content**.
+1.  **Remove this numbered list**.
 
 - [ ] _Acceptance criteria #1_
 - [ ] _Acceptance criteria #2_
