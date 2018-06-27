@@ -4,7 +4,7 @@ about: Template for creating a card on the project board
 
 ---
 
-**Card title (phrased in terms of usable results, not developer activity)
+**Card title (phrased in terms of usable results, not developer activity)**
 
 - [ ] _Acceptance criteria #1_
 - [ ] _Acceptance criteria #2_
